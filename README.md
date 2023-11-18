@@ -1,4 +1,4 @@
-### Joyce SUDI
+## Joyce SUDI
 #### Autonomous Driving Research Engineer | PhD Student 
 I'm passionate about science and new automation, robotics, and complex systems engineering technologies. 
 
@@ -8,10 +8,15 @@ I'm passionate about science and new automation, robotics, and complex systems e
 
 🔬 Scientific interests: Robotics, Automation, Automotive, IoT, Industry 4.0
 
-## Skills: 
+## Skills
 - CAD/CAM software: CATIA V5/V6, SolidWorks
 - Numerical analysis, Modeling & Simulation: MATLAB, Simulink, Simcenter AMESIM, MSC Adams
 - Programming languages: Python, C/C++, Java
 - Electronics and embedded systems: Arduino, STM32, TI MSP430/432, Raspberry Pi, PCB design with KiCAD
 - Robotics framework: ROS 1 & ROS 2
+- 
+## Experience
+- R&D Engineer Intern - Digital twin for load identification of a car suspension, Stellantis
+- Design of a quadcopter testbed (master thesis), Ampère Laboratory - CNRS UMR 5005 
+
 
