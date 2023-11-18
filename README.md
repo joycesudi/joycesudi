@@ -14,9 +14,9 @@ I'm passionate about science and new automation, robotics, and complex systems e
 - Programming languages: Python, C/C++, Java
 - Electronics and embedded systems: Arduino, STM32, TI MSP430/432, Raspberry Pi, PCB design with KiCAD
 - Robotics framework: ROS 1 & ROS 2
-- 
+  
 ## Experience
-- R&D Engineer Intern - Digital twin for load identification of a car suspension, Stellantis
+- R&D Engineer Intern - Digital twin for load identification of a vehicle suspension, Stellantis
 - Design of a quadcopter testbed (master thesis), Ampère Laboratory - CNRS UMR 5005 
 
 
