@@ -17,7 +17,7 @@ I'm passionate about science and new automation, robotics, and complex systems e
 - Robotics framework: ROS 1 & ROS 2
   
 ## Experience
-- Autonomous Driving Research Engineer, Stellantis (Since Feb. 2023)
+- Autonomous Driving Research Engineer, Stellantis (Since Feb. 2024)
 - R&D Engineer Intern - Digital twin for load identification of a vehicle suspension, Stellantis (Feb. 2023 - Aug. 2023)
 - Design of a quadcopter testbed (master thesis), Ampère Laboratory - CNRS UMR 5005 (Sept. 2022 - Feb. 2023)
 
